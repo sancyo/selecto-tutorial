@@ -18,3 +18,9 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## 参考リンク
+
+- [GitHub](https://github.com/daybrush/selecto)
+- [GitHub(Vue.js版)](https://github.com/daybrush/selecto/tree/master/packages/vue-selecto)
+- [StoryBook](https://daybrush.com/selecto/storybook/?path=/story/selecto--welcome)
